@@ -1,0 +1,29 @@
+* {
+
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+
+header{
+color: blue;
+display: flex;
+justify-content: center;
+background-color: rgba(128, 128, 128, 0.906);
+align-items: center;
+}
+
+header ul{
+    display: flex;
+    margin-right: 10px;
+    flex-direction: row;
+}
+
+header ul li{
+ padding: 0 10px;
+}
+.signIn{
+
+padding-left: -50px;
+
+}
